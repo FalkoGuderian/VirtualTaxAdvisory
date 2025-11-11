@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Virtual Tax Advisory"
+abstract: "An AI-powered virtual tax advisory system using Open Notebook for German tax law consultation and automated tax declaration creation."
+authors:
+- family-names: "Virtual Tax Advisory Team"
+  given-names: ""
+  orcid: ""
+repository-code: "https://github.com/FalkoGuderian/virtual-tax-advisory"
+url: "https://github.com/FalkoGuderian/virtual-tax-advisory"
+license: MIT
+preferred-citation:
+  type: software
+  title: "Virtual Tax Advisory: AI-Powered Tax Consultation System"
+  authors:
+  - family-names: "Virtual Tax Advisory Team"
+    given-names: ""
+    orcid: ""
+  repository-code: "https://github.com/FalkoGuderian/virtual-tax-advisory"
+  year: 2025
+  license: MIT
+  abstract: "A comprehensive system for automated German tax declaration creation using AI and knowledge base technologies. Integrates Open Notebook for intelligent tax law queries and provides structured workflows for tax calculation and documentation."
