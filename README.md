@@ -6,15 +6,15 @@
 
 An AI-supported virtual tax advisory for creating income tax declarations for Germany using Open Notebook as a knowledge base for German tax laws.
 
+## ⚠️ Important Disclaimer
+
+**This is not legal advice and should not be used as such.** This project is for informational and educational purposes only. It does not replace professional consultation with a certified tax advisor or lawyer. Always consult qualified professionals for your specific tax situation. We assume no liability for the accuracy of tax calculations, declarations, or any consequences arising from the use of this information.
+
 ## 📋 Overview
 
 This project demonstrates how Open Notebook can be used as an AI-supported knowledge base for creating tax declarations. Based on uploaded tax laws, questions about calculations can be asked and complete tax declarations can be created.
 
 <img width="1371" height="708" alt="image" src="https://github.com/user-attachments/assets/bc2b1a79-1065-4774-96d0-d32f7c77ce78" />
-
-## ⚠️ Important Disclaimer
-
-**This is not legal advice and should not be used as such.** This project is for informational and educational purposes only. It does not replace professional consultation with a certified tax advisor or lawyer. Always consult qualified professionals for your specific tax situation. We assume no liability for the accuracy of tax calculations, declarations, or any consequences arising from the use of this information.
 
 ### ✨ Main Features
 
