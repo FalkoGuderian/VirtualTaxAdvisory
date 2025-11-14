@@ -79,8 +79,6 @@ This guide serves as the foundation for accurate tax research and AI-powered leg
 # Start local instance (see OpenNotebookAPIToolkit/README.md)
 # Typically available at: http://localhost:8502
 ```
-<img width="1371" height="708" alt="image" src="https://github.com/user-attachments/assets/bc2b1a79-1065-4774-96d0-d32f7c77ce78" />
-
 ### 2. Determine Notebook ID
 ```bash
 # List current notebooks
